@@ -28,7 +28,7 @@
             <div class="content inner-top">
                 <div class="row">
                     <div class="col col-m-12 col-t-12 col-d-12 col-d-lg-12">
-                        <div class="title-bg absolute overflow-hidden left-0 top-[-50px] w-full text-[120px] leading-[120px] text-white uppercase font-bold tracking-[0.04em] text-center whitespace-nowrap pointer-events-none opacity-5">Contacts</div>
+                        <div class="title-bg absolute overflow-hidden left-0 top-[-50px] w-full text-[120px] leading-[120px] text-white uppercase font-bold tracking-[0.04em] text-center whitespace-nowrap pointer-events-none opacity-5">Contact</div>
                     </div>
                 </div>
             </div>
